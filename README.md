@@ -1,30 +1,147 @@
-![logo](https://github.com/shivkasquad/Shiv-Shankar/blob/main/github%20banner.png)
 
-<h1 align="center">Hi 👋, I'm Shiv Shankar Pandey</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<!-- ====================================================== -->
+<!-- SHIV SHANKAR PANDEY | GITHUB PROFILE README             -->
+<!-- ====================================================== -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkasquad&label=Profile%20views&color=0e75b6&style=flat" alt="shivkasquad" /> </p>
+<img src="https://raw.githubusercontent.com/shivkasquad/Shiv-Shankar/main/github%20banner.png" width="100%" alt="GitHub Banner"/>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/shiv-shankar-pandey](www.linkedin.com/in/shiv-shankar-pandey)
+# Hi 👋, I'm Shiv Shankar Pandey
 
-- 📫 How to reach me **pandeyshivshankar03@gmail.com**
+### Geomatics Student | Remote Sensing | GIS | Data Science | AI/ML
 
-- ⚡ Fun fact **I am shy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shiv-shankar-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shiv-shankar-pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shiv_the_cute_bachha?igsh=mwxpznz0nzvkejziaa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shiv_the_cute_bachha?igsh=mwxpznz0nzvkejziaa==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shivshankar-sn6vt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shivshankar-sn6vt" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+the+Earth+through+Satellite+Data;GIS+%7C+Remote+Sensing+%7C+Spatial+Analysis;Machine+Learning+%26+AI+for+Earth+Observation;Turning+Geospatial+Data+into+Insights" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivkasquad&show_icons=true&locale=en&layout=compact" alt="shivkasquad" /></p>
+<img align="right" alt="Coding animation" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivkasquad&show_icons=true&locale=en" alt="shivkasquad" /></p>
+### 👨‍🔬 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivkasquad&" alt="shivkasquad" /></p>
+- 🎓 Studying Geomatics and exploring geospatial technologies.
+- 🛰️ Interested in Satellite Remote Sensing and Earth Observation.
+- 🌍 Exploring GIS, Spatial Statistics and 3D Terrain Modelling.
+- 🪸 Working on Coral Reef Mapping and Underwater Image Segmentation.
+- 🤖 Interested in Machine Learning and AI for environmental applications.
+- 📊 Experienced with Data Analytics and Data Visualization.
+- 💻 Programming with Python, R and SQL.
+- 📫 Email: **pandeyshivshankar03@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🌏 Geomatics | Remote Sensing | GIS
+
+<div align="center">
+
+<img src="assets/geomatics-animation.gif" width="75%" alt="Satellite remote sensing, 3D GIS terrain and coral reef mapping animation"/>
+
+**Exploring Earth from Space to Seabed**
+
+</div>
+
+### 🔬 Research Interests
+
+| Field | Areas of Interest |
+|---|---|
+| 🛰️ Remote Sensing | Landsat, Sentinel-2, PlanetScope |
+| 🌍 GIS & Geomatics | Spatial Analysis, Cartography, 3D GIS |
+| 🪸 Marine Mapping | Coral Reef Mapping, Benthic Classification |
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning |
+| 🗺️ Spatial Statistics | Spatial Modelling, Geospatial Analysis |
+| 🌊 Environmental Monitoring | Ocean Mapping, Habitat Monitoring |
+
+---
+
+## 🛠️ Languages and Technologies
+
+### Programming & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
+</p>
+
+### GIS & Remote Sensing
+
+<p>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/PlanetScope-003B5C?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Data Analytics & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects & Research
+
+- 🪸 **Coral Reef Mapping:** Geospatial analysis and habitat classification.
+- 🌊 **Underwater Image Segmentation:** AI-based benthic image classification.
+- 🛰️ **Satellite Image Analysis:** Remote sensing and spectral index analysis.
+- 🌍 **GIS & Spatial Analysis:** Terrain modelling and spatial statistics.
+- 📊 **Data Analytics:** Sales, transportation and environmental data analysis.
+- 🤖 **Machine Learning:** Predictive modelling and statistical learning.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shiv-shankar-pandey">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/shiv_the_cute_bachha/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@shivshankar-sn6vt">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:pandeyshivshankar03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 Mapping the Earth. Understanding the Data. Exploring the Future.
+
+*From Satellite Imagery to AI-Powered Geospatial Intelligence.*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views"/>
+
+</div>
+
