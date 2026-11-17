@@ -9,13 +9,13 @@
 <img src="geomatics-wide-banner.gif" width="100%" alt="Geomatics Remote Sensing GIS AI and Coral Reef Mapping"/>
 </div>
 
-# Hi 👋, I'm Shiv Shankar Pandey
+<h1 align="center">Hi 👋, I'm Shiv Shankar Pandey</h1>
 
-### Geomatics Student | Remote Sensing | GIS | Data Science | AI/ML
+<h3 align="center">Geomatics Student | Remote Sensing | GIS | Data Science | AI/ML</h3>
 
-<p>
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+the+Earth+through+Satellite+Data;GIS+%7C+Remote+Sensing+%7C+Spatial+Analysis;Machine+Learning+%26+AI+for+Earth+Observation;Turning+Geospatial+Data+into+Insights" alt="Typing SVG"/>
-</p>
 
 </div>
 
