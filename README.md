@@ -7,7 +7,9 @@
 
 <div align="center">
 
-<img src="geomatics-animation.gif" width="85%" alt="Geomatics Remote Sensing GIS and Coral Reef Mapping Animation"/>
+<img src="geomatics-animation.gif" width="35%" alt="Geomatics Remote Sensing GIS and Coral Reef Mapping Animation"/>
+
+</div>
 
 # Hi 👋, I'm Shiv Shankar Pandey
 
