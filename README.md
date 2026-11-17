@@ -6,9 +6,7 @@
 <!-- GEOMATICS ANIMATED BANNER -->
 
 <div align="center">
-
-<img src="geomatics-animation.gif" width="35%" alt="Geomatics Remote Sensing GIS and Coral Reef Mapping Animation"/>
-
+<img src="geomatics-wide-banner.gif" width="100%" alt="Geomatics Remote Sensing GIS AI and Coral Reef Mapping"/>
 </div>
 
 # Hi 👋, I'm Shiv Shankar Pandey
