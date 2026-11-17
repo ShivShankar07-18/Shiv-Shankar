@@ -106,13 +106,19 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShivShankar07-18&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ShivShankar07-18&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivShankar07-18&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ShivShankar07-18&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=ShivShankar07-18&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+### 💻 GitHub Profile
+
+- 👨‍💻 GitHub: [ShivShankar07-18](https://github.com/ShivShankar07-18)
+- 📁 Explore my repositories and projects.
+- 🌍 Interested in Geomatics, GIS, Remote Sensing and AI/ML.
 
 ---
 
@@ -145,7 +151,5 @@
 ### 🌍 Mapping the Earth. Understanding the Data. Exploring the Future.
 
 *From Satellite Imagery to AI-Powered Geospatial Intelligence.*
-
-<img src="https://komarev.com/ghpvc/?username=ShivShankar07-18&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views"/>
 
 </div>
