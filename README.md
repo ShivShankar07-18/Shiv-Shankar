@@ -97,17 +97,19 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=shivkasquad&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=ShivShankar07-18&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=shivkasquad&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ShivShankar07-18&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
-
+<img width="75%" src="https://streak-stats.demolab.com?user=ShivShankar07-18&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
